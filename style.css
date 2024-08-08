@@ -1,0 +1,15 @@
+h1{
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    text-decoration: dashed;
+    color: purple;
+}
+
+p{
+
+    color: lime;
+    font-style: italic;
+    background-color: darkgreen;
+}
+
